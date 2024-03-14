@@ -1,6 +1,8 @@
 # RabbitMQ-Message-Queueing-Pub/Sub
-producer -> Exchange -> Queue
-Exchange -> bind -> Queue
+producer > Exchange > Queue
+
+
+Exchange > bind > Queue
 ## install , Running the services
 ```bash
 $ npm install
